@@ -10,7 +10,7 @@ In this homework, I chose five pretrained models that chosen as target models in
 
 ## Results
 
-<img src="/Users/chenjunda/Desktop/githubPublic/SPML/HW2_Defense/table.png" style="zoom:50%;" />
+<img src="table.png" width="800" />
 
 For more details please refer to the report.
 

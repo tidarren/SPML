@@ -12,11 +12,11 @@ In this homework, I use 4 models pretrained on CIFAR-10: ResNet18, DenseNet121, 
 
 ### Model Performance
 
-<img src="table.png" style="zoom:30%;" />
+<img src="table.png" width="700" />
 
 ### Result Comparison
 
-<img src="comparison.png" style="zoom:40%;" />
+<img src="comparison.png" width="600" />
 
 For more details please refer to the report.
 

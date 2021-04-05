@@ -9,11 +9,11 @@ We are curious about generation of adversarial patch and its variation and appli
 
 ### Style transfered adversarial patch
 
-<img src="comparison.png" style="zoom:40%;" />
+<img src="comparison.png" width="800" />
 
 ### Different style weighted patch
 
-<img src="patch.png" style="zoom:40%;" />
+<img src="patch.png" width="800" />
 
 For more details please refer to the report.
 
