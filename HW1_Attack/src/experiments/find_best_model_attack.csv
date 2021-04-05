@@ -1,0 +1,9 @@
+source_model,fool_method,min_mean_acc_layer,min_mean_acc
+ResNet18,ifgsm,4.0,7.75
+ResNet18,momentum_ifgsm,4.0,9.5
+DenseNet121,ifgsm,5.0,8.0
+DenseNet121,momentum_ifgsm,5.0,10.0
+GoogLeNet,ifgsm,3.0,4.0
+GoogLeNet,momentum_ifgsm,3.0,6.0
+SENet18,ifgsm,4.0,3.0
+SENet18,momentum_ifgsm,6.0,5.0

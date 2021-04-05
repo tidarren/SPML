@@ -1,0 +1,23 @@
+{
+   "_comment": "===== MODEL CONFIGURATION =====",
+   "BATCH_SIZE": 16,
+   "NUM_WORKERS": 4,
+   "EPOCH": 3,
+
+    "_comment": "=====ADVERSARIAL TRAINING CONFIGURATION=====",
+    "ADV_DATA_PATH": "./data/", 
+    "GENERATE_PGD_EXS": false,
+    "MORE_TRNSFORM": false, 
+    "RANDOM_SEED": 0,
+    "PERCENTAGE": 0.25,
+  
+    "_comment": "===== EVAL CONFIGURATION =====",
+    "ENSEMBLE": false,
+    "EVAL_ADV_TRAINED_MODEL": true,
+    "EVAL_MORE_TRNSFORM": false,
+    "MODEL_WEIGHT_PATH": "../model_weight/",
+    "EVAL_EPOCH": 0,
+    "EVAL_PERCENTAGE": 0.25,
+    "EVAL_ON_ADV_set": true
+  }
+  
